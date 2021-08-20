@@ -72,4 +72,7 @@ I'm Soubhagya Ranjan Das a Developer,Programmer,Learner and Content Creator on [
 [![Illustrator Badge](https://aleen42.github.io/badges/src/illustrator.svg)](#)
 
 ### GitHub Stats:
-[![GitHub Badges](https://img.shields.io/github/followers/SOUBHAGYA32.svg?style=social&label=Follow&maxAge=2592000)](#)
+[![GitHub Badges1](https://img.shields.io/github/followers/SOUBHAGYA32.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/SOUBHAGYA32) [![Github Badges3](https://img.shields.io/github/issues/SOUBHAGYA32/CRUD-Application-Using-NodeJs-ExpressJs-MongoDB.svg)](#) [![Github Badges4](https://img.shields.io/github/issues-closed/SOUBHAGYA32/CRUD-Application-Using-NodeJs-ExpressJs-MongoDB.svg)](#) [![Github Badges5](https://img.shields.io/github/issues-pr/SOUBHAGYA32/CRUD-Application-Using-NodeJs-ExpressJs-MongoDB.svg)](#) [![Github Badges6](https://img.shields.io/github/stars/SOUBHAGYA32/CRUD-Application-Using-NodeJs-ExpressJs-MongoDB.svg)](#) [![Github Badges7](https://img.shields.io/github/watchers/SOUBHAGYA32/CRUD-Application-Using-NodeJs-ExpressJs-MongoDB.svg)](#)
+
+
+[![GitHub Badges2](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUBHAGYA32&theme=blue-green)](#) [![Github Badges8](https://github-readme-stats.vercel.app/api?username=SOUBHAGYA32&theme=blue-green)](#) [![GitHub Graph](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#)
