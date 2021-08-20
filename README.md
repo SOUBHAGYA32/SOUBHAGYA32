@@ -71,3 +71,5 @@ I'm Soubhagya Ranjan Das a Developer,Programmer,Learner and Content Creator on [
 [![Photoshop Badge](https://aleen42.github.io/badges/src/photoshop.svg)](#)
 [![Illustrator Badge](https://aleen42.github.io/badges/src/illustrator.svg)](#)
 
+### GitHub Stats:
+[![GitHub Badges](https://img.shields.io/github/followers/SOUBHAGYA32.svg?style=social&label=Follow&maxAge=2592000)](#)
