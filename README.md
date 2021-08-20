@@ -13,11 +13,12 @@ I'm Soubhagya Ranjan Das a Developer,Programmer,Learner and Content Creator on [
 
 
 - 🔭 I’m currently pursuing my MCA.
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+- :computer: Love to Code
 - 🤔 I’m looking for an internship and Job.
 - 📫 How to reach me: soubhagyakhuku851@gmail.com.
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to draw and play online video games.
+- 👨‍🍳 Love to Cook Food.
 
 
 ### Programming Languages:
