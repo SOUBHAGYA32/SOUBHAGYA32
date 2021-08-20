@@ -8,4 +8,5 @@ I'm Soubhagya Ranjan Das a Developer,Programmer,Learner and Content Creator on [
 [![Twitter Badge](https://img.shields.io/badge/-@soubhagya_khuku-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/soubhagya_khuku)](https://twitter.com/soubhagya_khuku)
 [![Mail Badge](https://img.shields.io/badge/-DesignAndCoding-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/DesignAndCoding)
 [![Linkedin Badge](https://img.shields.io/badge/-SOUBHAGYA_RANJAN_DAS-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soubhagya-ranjan-das-130483199/)
-[![Mail Badge](https://img.shields.io/badge/-@Soubhagya32_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/soubhagya32_/) 
+[![Mail Badge](https://img.shields.io/badge/-@Soubhagya32_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/soubhagya32_/)
+[![Mail Badge](https://img.shields.io/badge/-SOUBHAGYA-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:soubhagyakhuku851@gmail.com)
