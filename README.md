@@ -10,3 +10,11 @@ I'm Soubhagya Ranjan Das a Developer,Programmer,Learner and Content Creator on [
 [![Linkedin Badge](https://img.shields.io/badge/-SOUBHAGYA_RANJAN_DAS-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soubhagya-ranjan-das-130483199/)
 [![Mail Badge](https://img.shields.io/badge/-@Soubhagya32_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/soubhagya32_/)
 [![Mail Badge](https://img.shields.io/badge/-SOUBHAGYA-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:soubhagyakhuku851@gmail.com)
+
+
+- 🔭 I’m currently pursuing my MCA.
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I’m looking for an internship and Job.
+- 📫 How to reach me: soubhagyakhuku851@gmail.com.
+- 🌱 I’m currently learning everything 🤣
+- ⚡ Fun fact: I love to draw and play online video games.
