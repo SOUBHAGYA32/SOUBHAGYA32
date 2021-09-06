@@ -5,7 +5,6 @@ I'm Soubhagya Ranjan Das from Bhubaneswar. I'm currently pursuing Master of Comp
 
 :mailbox: Reach me out!
 
-
 [![Twitter Badge](https://img.shields.io/badge/-@soubhagya_khuku-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/soubhagya_khuku)](https://twitter.com/soubhagya_khuku)
 [![Mail Badge](https://img.shields.io/badge/-DesignAndCoding-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/DesignAndCoding)
 [![Linkedin Badge](https://img.shields.io/badge/-SOUBHAGYA_RANJAN_DAS-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soubhagya-ranjan-das-130483199/)
@@ -21,8 +20,9 @@ I'm Soubhagya Ranjan Das from Bhubaneswar. I'm currently pursuing Master of Comp
 - ⚡ Fun fact: I love to draw and play online video games.
 - 👨‍🍳 Love to Cook Food.
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
-### Programming Languages:
+### Programming Languages: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
