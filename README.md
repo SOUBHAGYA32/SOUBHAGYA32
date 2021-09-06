@@ -81,3 +81,6 @@ I'm Soubhagya Ranjan Das from Bhubaneswar. I'm currently pursuing Master of Comp
 
 [![GitHub Badges2](https://github-readme-stats.vercel.app/api/top-langs/?username=SOUBHAGYA32&theme=blue-green)](#) [![Github Badges8](https://github-readme-stats.vercel.app/api?username=SOUBHAGYA32&theme=blue-green)](#)
 [![GitHub Graph](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#) ![](https://api.visitorbadge.io/api/VisitorHit?user=SOUBHAGYA32&repo=github-visitors-badge&countColor=%237B1E7A)
+
+### THINK TWICE, CODE ONCE !
+  <img src="https://miro.medium.com/max/875/1*lhOax3cZATGZwEhG0uTYRA.gif" width="50%">
