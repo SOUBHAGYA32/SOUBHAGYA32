@@ -81,4 +81,4 @@ I'm Soubhagya Ranjan Das from Bhubaneswar. I'm currently pursuing Master of Comp
 [![GitHub Graph](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#) ![](https://api.visitorbadge.io/api/VisitorHit?user=SOUBHAGYA32&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ### THINK TWICE, CODE ONCE !
-  <img src="https://miro.medium.com/max/875/1*lhOax3cZATGZwEhG0uTYRA.gif" width="80%">
+  <img src="https://miro.medium.com/max/875/1*lhOax3cZATGZwEhG0uTYRA.gif" width="100%">
