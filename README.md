@@ -9,19 +9,15 @@
 - 👨‍🍳 Love to Cook Food.
 
 :mailbox: Reach me out!
-
 [![Twitter Badge](https://img.shields.io/badge/-@soubhagya_khuku-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/soubhagya_khuku)](https://twitter.com/soubhagya_khuku)
 [![Mail Badge](https://img.shields.io/badge/-DesignAndCoding-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/DesignAndCoding)
 [![Linkedin Badge](https://img.shields.io/badge/-SOUBHAGYA_RANJAN_DAS-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soubhagya-ranjan-das-130483199/)
 [![Mail Badge](https://img.shields.io/badge/-@Soubhagya32_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/soubhagya32_/)
 [![Mail Badge](https://img.shields.io/badge/-SOUBHAGYA-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:soubhagyakhuku851@gmail.com)
 
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 ### Programming Languages: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
@@ -30,7 +26,6 @@
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 
 ### Frontend Tools:
-
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
@@ -45,7 +40,6 @@
 [![django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 
 ### Backend Tools:
-
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
@@ -53,20 +47,19 @@
 [![Express Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)
 
 ### Database Tools:
-
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![SQLite Badge](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
 ### Certified SAP ABAP Developer:
-
-
 [![SAP Badge](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](#)
 
+### DevOps Tools
+[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
+[![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
 
 ### Graphics Designer Tools:
-
-
 [![Photoshop Badge](https://aleen42.github.io/badges/src/photoshop.svg)](#)
 [![Illustrator Badge](https://aleen42.github.io/badges/src/illustrator.svg)](#)
 
