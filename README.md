@@ -1,5 +1,5 @@
 
-## Hi, I am Soubhagya Ranjan Das <img src="https://c.tenor.com/uQJyw8sJs5kAAAAM/emoji-emoji-hello.gif" width="80">
+## Hi, Welcome to my GitHub Profile. I am Soubhagya <img src="https://c.tenor.com/uQJyw8sJs5kAAAAM/emoji-emoji-hello.gif" width="80">
 - 🔭 I’m currently pursuing my MCA.
 - :computer: Love to Code
 - 🤔 I’m looking for an internship and Job.
