@@ -1,9 +1,12 @@
-[![Soubhagya_'s GitHub Banner](Mygithub-banner.jpg)](https://github.com/SOUBHAGYA32)
 
-## Hi I'm Soubhagya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-I'm Soubhagya Ranjan Das from Bhubaneswar. I'm currently pursuing Master of Computer Application(MCA) in College of IT and Management Education(CIME). Along with my degree, I have certified as an SAP ABAP Developer and have completed a Full Stack Developer Using Python Django in my acdemics projects. I'm currently learning MERN(MongoDB,Express Js, React Js, Node Js) Stack Developer.I'm also a content creator on my Youtube Channel and here is the link of My Youtube Channel [Youtube](https://www.youtube.com/c/DesignAndCoding). I Spend most of time coding outstanding projects and learning programming tools. That's all about me.
-
+## Hi, I am Soubhagya Ranjan Das <img src="https://c.tenor.com/uQJyw8sJs5kAAAAM/emoji-emoji-hello.gif" width="80">
+- 🔭 I’m currently pursuing my MCA.
+- :computer: Love to Code
+- 🤔 I’m looking for an internship and Job.
+- 📫 How to reach me: soubhagyakhuku851@gmail.com.
+- 🌱 I’m currently learning everything 🤣
+- ⚡ Fun fact: I love to draw and play online video games.
+- 👨‍🍳 Love to Cook Food.
 
 :mailbox: Reach me out!
 
@@ -13,14 +16,6 @@ I'm Soubhagya Ranjan Das from Bhubaneswar. I'm currently pursuing Master of Comp
 [![Mail Badge](https://img.shields.io/badge/-@Soubhagya32_-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/soubhagya32_/)
 [![Mail Badge](https://img.shields.io/badge/-SOUBHAGYA-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:soubhagyakhuku851@gmail.com)
 
-
-- 🔭 I’m currently pursuing my MCA.
-- :computer: Love to Code
-- 🤔 I’m looking for an internship and Job.
-- 📫 How to reach me: soubhagyakhuku851@gmail.com.
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play online video games.
-- 👨‍🍳 Love to Cook Food.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -75,10 +70,6 @@ I'm Soubhagya Ranjan Das from Bhubaneswar. I'm currently pursuing Master of Comp
 [![Photoshop Badge](https://aleen42.github.io/badges/src/photoshop.svg)](#)
 [![Illustrator Badge](https://aleen42.github.io/badges/src/illustrator.svg)](#)
 
-### GitHub Stats:
-[![GitHub Badges1](https://img.shields.io/github/followers/SOUBHAGYA32.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/SOUBHAGYA32) [![Github Badges3](https://img.shields.io/github/issues/SOUBHAGYA32/Real-Time-Pizza-Delivery-App.svg)](#) [![Github Badges4](https://img.shields.io/github/issues-closed/SOUBHAGYA32/Real-Time-Pizza-Delivery-App.svg)](#) [![Github Badges5](https://img.shields.io/github/issues-pr/SOUBHAGYA32/Real-Time-Pizza-Delivery-App.svg)](#) [![Github Badges6](https://img.shields.io/github/stars/SOUBHAGYA32/Real-Time-Pizza-Delivery-App.svg)](#) [![Github Badges7](https://img.shields.io/github/watchers/SOUBHAGYA32/Real-Time-Pizza-Delivery-App.svg)](#)
+### GitHub Status:
+<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=SOUBHAGYA32&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUBHAGYA32&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
 
-[![GitHub Graph](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#) ![](https://api.visitorbadge.io/api/VisitorHit?user=SOUBHAGYA32&repo=github-visitors-badge&countColor=%237B1E7A)
-
-### THINK TWICE, CODE ONCE !
-  <img src="https://miro.medium.com/max/875/1*lhOax3cZATGZwEhG0uTYRA.gif" width="100%">
