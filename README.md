@@ -1,10 +1,10 @@
 
 ## Hi, Welcome to my GitHub Profile. I am Soubhagya <img src="https://c.tenor.com/uQJyw8sJs5kAAAAM/emoji-emoji-hello.gif" width="80">
-- 🔭 I’m currently pursuing my MCA.
+- 🔭 I’m a Developer.
 - :computer: Love to Code
-- 🤔 I’m looking for an internship and Job.
+- 🤔 Currently working as an iOS Developer at Muvi.com
 - 📫 How to reach me: soubhagyakhuku851@gmail.com.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything and Working on many languages. 🤣
 - ⚡ Fun fact: I love to draw and play online video games.
 - 👨‍🍳 Love to Cook Food.
 
