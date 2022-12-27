@@ -1,6 +1,6 @@
 
 ## Hi, Welcome to my GitHub Profile. I am Soubhagya <img src="https://c.tenor.com/uQJyw8sJs5kAAAAM/emoji-emoji-hello.gif" width="80">
-- 🔭 I’m a Developer.
+- 🔭 I’m a Developer and Designer.
 - :computer: Love to Code
 - 🤔 Currently working as an iOS Developer at Muvi.com
 - 📫 How to reach me: soubhagyakhuku851@gmail.com.
@@ -25,6 +25,7 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](#)
 [![PHP Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![Swift 5 Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)](#)
 
 ### Frontend Tools:
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
@@ -63,6 +64,10 @@
 ### Graphics Designer Tools:
 [![Photoshop Badge](https://aleen42.github.io/badges/src/photoshop.svg)](#)
 [![Illustrator Badge](https://aleen42.github.io/badges/src/illustrator.svg)](#)
+
+### IDE
+[![XCode Badge](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](#)
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
 
 ### GitHub Status:
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=SOUBHAGYA32&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOUBHAGYA32&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
